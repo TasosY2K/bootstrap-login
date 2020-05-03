@@ -15,6 +15,7 @@ github-corner {
   opacity: 1;
   -webkit-transition: opacity 0.8s ease, -webkit-transform 1.4s ease;
   transition: opacity 0.8s ease, transform 1.4s ease;
+  z-index: 0;
 }
 
 #particles-js {
