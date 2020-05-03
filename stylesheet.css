@@ -3,6 +3,10 @@ body {
   font-family: "PT Sans", sans-serif;
 }
 
+github-corner {
+  z-index: 100;
+}
+
 #particles-js canvas {
   display: block;
   -webkit-transform: scale(1);
